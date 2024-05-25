@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NestJs**
 
-- 💬 Ask me about **Ask me about anything, I am happy to help**
+- 💬 Ask me about **anything, I am happy to help**
 
 - 📫 How to reach me **muhammadw.official@gmail.com**
 
