@@ -1,5 +1,4 @@
-
-<img align="center" width="100%" style="height: 400px;" src="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg" alt="Banner">
+<img align="center" width="100%" style="height: 200px;" src="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg" alt="Banner">
 <h1 align="center">Hi 👋, I'm Muhammad Waqar</h1>
 <h3 align="center">Software Engineer with experience in Software and Infrastructure Development</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
